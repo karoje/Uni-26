@@ -11,10 +11,14 @@
             "id": "c09fa841fe2ec61c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -182,6 +186,7 @@
   },
   "active": "c09fa841fe2ec61c",
   "lastOpenFiles": [
+    "test.md",
     "testing testing.md",
     "Games/BL3/bl3 arms race chests.png",
     "Games/RotMG/RotMG/Sniffer/assets/xml/_helpers.xml",
