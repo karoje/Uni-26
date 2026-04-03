@@ -22,3 +22,5 @@ String output = scanner.nextLine();
 input.equals(output);
 input.equals("a string"); //can also compare against a partial string
 ```
+
+test
