@@ -1,0 +1,17 @@
+{
+  "firstSync": false,
+  "githubToken": "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",
+  "githubOwner": "karoje",
+  "githubRepo": "PersonalA",
+  "githubBranch": "main",
+  "syncStrategy": "manual",
+  "syncInterval": 1,
+  "syncOnStartup": false,
+  "syncConfigDir": false,
+  "conflictHandling": "ask",
+  "conflictViewMode": "default",
+  "showStatusBarItem": true,
+  "showSyncRibbonButton": true,
+  "showConflictsRibbonButton": true,
+  "enableLogging": false
+}

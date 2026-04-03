@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "a03afcec82569b6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7393b617dbc61a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c09fa841fe2ec61c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6756378fc095b273",
+    "type": "split",
+    "children": [
+      {
+        "id": "c638f201071ac424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "925572d83d9cab13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "948b01fa9028d252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d7ca3d9a3806e2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2f6fd105c791fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "10a50ef015cce021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6c32f7b1681f66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BL3 Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for BL3 Notes"
+            }
+          },
+          {
+            "id": "3cb221d923ef5fa6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BL3 Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from BL3 Notes"
+            }
+          },
+          {
+            "id": "5a4cefb4bc304ded",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7d811763190e401e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b5998d269a680dfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BL3 Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BL3 Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c09fa841fe2ec61c",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Games/BL3/bl3 arms race chests.png",
+    "Games/RotMG/RotMG/Sniffer/assets/xml/_helpers.xml",
+    "Games/RotMG/RotMG/Sniffer/assets/xml/xmasNexusObjects.xml",
+    "Games/RotMG/RotMG/Sniffer/assets/xml/xmasNexusGround.xml",
+    "Games/RotMG/RotMG/Sniffer/assets/xml/willemTesting.xml",
+    "Games/RotMG/RotMG/Sniffer/assets/xml/whiteSnakeObjects.xml",
+    "Games/RotMG/RotMG/Sniffer/assets/xml/whiteSnakeGround.xml",
+    "Games/RotMG/RotMG/Sniffer/assets/xml/wetlandsObjects.xml",
+    "Games/RotMG/RotMG/Sniffer/assets/xml/wetlandsGround.xml",
+    "Games/RotMG/RotMG/Sniffer/assets/xml/undeadLairGround.xml",
+    "Games/RotMG/RotMG/Sniffer/assets/xml/undeadLairObjects.xml",
+    "Games/RotMG/RotMG/Sniffer/assets/sprites/characters_masks.png",
+    "Games/RotMG/RotMG/Sniffer/assets/sprites/mapObjects.png",
+    "Games/RotMG/RotMG/Sniffer/assets/sprites/groundTiles.png",
+    "Games/RotMG/RotMG/Sniffer/assets/sprites/characters.png",
+    "Games/RotMG/RotMG/S23 Shinies/Total Shinies/shiny7.png",
+    "Games/RotMG/RotMG/S23 Shinies/Total Shinies/shiny2.png",
+    "Games/RotMG/RotMG/S23 Shinies/Total Shinies/shiny6.png",
+    "Games/RotMG/RotMG/S23 Shinies/Total Shinies/shiny8.png",
+    "Games/RotMG/RotMG/S23 Shinies/Total Shinies/shiny5.png",
+    "Games/BL3/BL3 Notes.md",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "7e65b85ce170a69f",
+    "type": "split",
+    "children": [
+      {
+        "id": "be355bd5638d9a4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ccf3d49f773c83d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1010/Week 1 Lecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1 Lecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0a9c7123fcc0958",
+    "type": "split",
+    "children": [
+      {
+        "id": "f281d9e11e3ed6f8",
+        "type": "tabs",
+        "dimension": 74.46351931330472,
+        "children": [
+          {
+            "id": "86173f37ebc0a666",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29d5d75b64fe6290",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "61499eaa5d916a60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "63e44067ed89aed8",
+        "type": "tabs",
+        "dimension": 25.536480686695278,
+        "children": [
+          {
+            "id": "b9b0e4f606888be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Do"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0498db0af206b461",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aade1990566878c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cc80eda19e2bfd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMP1000/Practice Questions/Strings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Strings"
+            }
+          },
+          {
+            "id": "9491376bad2876e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COMP1000/Practice Questions/Strings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Strings"
+            }
+          },
+          {
+            "id": "ebce01c5cb8c55f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c40160e8f47bdfa7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f5242ea74dbf4167",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COMP1000/Practice Questions/Strings.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Strings"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "86173f37ebc0a666",
+  "lastOpenFiles": [
+    "2026-04-01.md",
+    "COMP1010/Week 1 Lecture.md",
+    "Untitled.canvas",
+    "To Do.md",
+    "COMP1010",
+    "PDFs/07strings.pdf",
+    "PDFs.md",
+    "PDFs",
+    "PDFs/03loops.pdf",
+    "PDFs/04functions1.pdf",
+    "PDFs/06functions2.pdf",
+    "PDFs/05arrays.pdf",
+    "COMP1000/Practice Questions/Functions.md",
+    "COMP1000/Practice Questions/Loops.md",
+    "COMP1000/Practice Questions/Strings.md",
+    "COMP1000/Practice Questions/Conditions.md",
+    "COMP1000/Practice Questions/Arrays.md",
+    "Prac.md",
+    "Practice Questions.md",
+    "COMP1000/Practice Questions",
+    "COMP1000/Conditions.md",
+    "COMP1000/Arrays and Functions.md",
+    "COMP1000/Strings.md",
+    "COMP1000/Arrays.md",
+    "COMP1000/Functions.md",
+    "COMP1000/Loops.md",
+    "Welcome.md",
+    "COMP1000"
+  ]
+}
