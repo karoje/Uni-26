@@ -22,3 +22,36 @@ String output = scanner.nextLine();
 input.equals(output);
 input.equals("a string"); //can also compare against a partial string
 ```
+
+`break` - used to stop a loop from executing
+`continue` - will go back to the beginning of a loop
+
+```java
+for (*introducing a variable*; *condition*; *increasing the counter*) {
+	//functionality to be executed	
+}
+```
+
+### Methods
+Written outside main but inside the class. 
+A piece of a program that can be called from elsewhere
+```java
+public class Example {
+    public static void main(String[] args) {
+        // program code
+    }
+
+    // your own methods here
+}
+```
+
+Method parameters are distinct from the variables (or parameters) of other methods, even if they have the same name.
+
+If a method does not return a value - use **void** in the definition.
+`void` = method returns nothing
+```java
+public static int alwaysReturnsTen() {
+    return 10;
+}
+```
+Declare the type of return variable in the definition if the method needs to return something
