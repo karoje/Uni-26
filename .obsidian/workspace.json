@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Java Commands.md",
+                "file": "COMP1010/Week 3 Lecture & Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful Java Commands"
+              "title": "Week 3 Lecture & Code"
             }
           }
         ]
@@ -187,8 +187,9 @@
   "active": "c09fa841fe2ec61c",
   "lastOpenFiles": [
     "COMP1010/Week 1 Lecture & Code.md",
-    "Useful Java Commands.md",
     "COMP1010/Week 2 Lecture & Code.md",
+    "COMP1010/Week 3 Lecture & Code.md",
+    "Useful Java Commands.md",
     "test.md",
     "testing testing.md",
     "Games/BL3/bl3 arms race chests.png",
