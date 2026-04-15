@@ -149,3 +149,26 @@ When used as a parameter in a method, the method receives a copy of the referenc
 `charAt` - get a character at a specified index of a string
 
 `stringName.length()` - length of a string
+
+### Object-oriented programming
+A class defines the attributes of objects
+- i.e. the information related to them (**instance variables**)
+and their commands
+- i.e. their methods
+The values of instance (i.e., object) variables define the internal state of an individual object, whereas methods define the functionality it offers.
+
+An object is always instantiated by calling a method that created an object, i.e., a **constructor** by using the `new` keyword.
+
+The class lays out the blueprint for any objects that are instantiated by it
+
+`private` - variables are "hidden" inside the object (encapsulation)
+
+A method is a named section of source code **inside a class**.
+
+`static` modifier indicates that the method doesn't belong to an object and can't access any variables that belong to objects.
+`static` doesn't need to be included if method is being used to process info about objects created from a given class
+
+Instance variables are referred to with the prefix `this`.
+
+When returning from a method, the return value has to be assigned to a variable.
+
