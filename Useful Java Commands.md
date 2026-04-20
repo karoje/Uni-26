@@ -172,3 +172,70 @@ Instance variables are referred to with the prefix `this`.
 
 When returning from a method, the return value has to be assigned to a variable.
 
+
+
+If any empty line finds its way into a file, skipping an empty line can be done with `continue` and `isEmpty`.
+Reading a file with try-catch and isEmpty-continue:
+```java
+// create a scanner to read the file text.txt
+try(Scanner scanner = new Scanner(Paths.get("text.txt"))) {
+
+	// read all the lines of the file
+	while(scanner.hasNextLine()) {
+		String line = scanner.nextLine();
+		
+		// if line is blank we do nothing
+		if(line.isEmpty()) {
+			continue;
+		}	
+		// do something with the data
+	}
+} catch (Exception e) {
+	System.out.println("Error: " + e.getMessage());	
+}
+```
+
+
+An **Object** refers to an independent entity that contains both data (instance variables) and behaviour (methods). 
+A **Class** contains the blueprint needed to create objects, and defines the objects' variables and methods.
+A class contains:
+- instance variables describing the object's data
+- a constructor/s used to create it
+- methods that define its behaviour
+
+We can have multiple constructors for classes, where they can take different parameters upon creation. This is known as **constructor overloading**.
+- You can't have two constructors with the exact same types of parameters as Java won't be able to differentiate between them
+To minimise duplicate code, you can call a constructor from within another constructor using the `this` keyword, e.g. 
+```java 
+public Person(String name) {
+    this(name, 0);
+    //here the code of the second constructor is run, and the age is set to 0
+}
+
+public Person(String name, int age) {
+    this.name = name;
+    this.age = age;
+    this.weight = 0;
+    this.height = 0;
+}
+```
+
+Methods can also be overloaded in the same way e.g.
+```java
+public void growOlder() {
+    this.age = this.age + 1;
+}
+
+public void growOlder(int years) {
+    this.age = this.age + years;
+}
+```
+The one executed depends on the parameter given.
+
+### Primitive and reference variables
+
+Primitive variable - information which is stored as the value of that variable
+Reference variable - holds a reference to information related to that variable
+- reference variables are almost always objects in Java
+
+`toString` needs to be used for reference variables otherwise they will also print the identifier for the variable rather than just the variable. `toString` tells the program how we want the output to be printed.
