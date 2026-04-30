@@ -239,3 +239,6 @@ Reference variable - holds a reference to information related to that variable
 - reference variables are almost always objects in Java
 
 `toString` needs to be used for reference variables otherwise they will also print the identifier for the variable rather than just the variable. `toString` tells the program how we want the output to be printed.
+
+
+`clear()` - clear an objects list
